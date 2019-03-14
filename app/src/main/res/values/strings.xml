@@ -2,4 +2,20 @@
     <string name="app_name">Consumers</string>
     <string name="title_activity_phone_book">PhoneBook</string>
     <string name="title_activity_contact">ContactActivity</string>
+    <string name="pin">Pin</string>
+    <string name="surname">Surname</string>
+
+    <string name="id">ID</string>
+    <string name="delete">Delete</string>
+    <string name="name">Name</string>
+
+
+    <string name="email">Email</string>
+    <string name="tel">tel</string>
+    <string name="add">Add</string>
+    <string name="conumers">Conumers</string>
+    <string name="find">Find</string>
+
+    <string name="success_pin_msg">Pin successful</string>
+    <string name="error_pin_msg">Only four digits please</string>
 </resources>

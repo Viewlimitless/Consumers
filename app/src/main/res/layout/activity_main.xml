@@ -15,7 +15,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="25dp"
-            android:text="ID"></TextView>
+            android:text="@string/id"></TextView>
 
         <EditText
             android:id="@+id/etID"
@@ -33,7 +33,7 @@
             android:id="@+id/btnDel"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Delete"></Button>
+            android:text="@string/delete"></Button>
     </LinearLayout>
 
     <LinearLayout
@@ -46,7 +46,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:text="Name"></TextView>
+            android:text="@string/name"></TextView>
 
         <EditText
             android:id="@+id/etName"
@@ -68,7 +68,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:text="Surname"></TextView>
+            android:text="@string/surname"></TextView>
 
         <EditText
             android:id="@+id/etSurname"
@@ -92,7 +92,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:text="Email"></TextView>
+            android:text="@string/email"></TextView>
 
         <EditText
             android:id="@+id/etEmail"
@@ -112,7 +112,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:text="tel"></TextView>
+            android:text="@string/tel"></TextView>
 
         <EditText
             android:id="@+id/etTel"
@@ -130,19 +130,19 @@
             android:id="@+id/btnAdd"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Add"></Button>
+            android:text="@string/add"></Button>
 
         <Button
             android:id="@+id/btnBook"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Conumers"></Button>
+            android:text="@string/conumers"></Button>
 
         <Button
             android:id="@+id/btnFind"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Find"></Button>
+            android:text="@string/find"></Button>
 
     </LinearLayout>
 

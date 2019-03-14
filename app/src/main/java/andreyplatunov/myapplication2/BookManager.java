@@ -2,11 +2,12 @@ package andreyplatunov.myapplication2;
 
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 
 import java.util.ArrayList;
 
-public class BookManager {
+public class BookManager extends AppCompatActivity {
     final static String LOG_TAG = "myLogs";
 
 
@@ -82,4 +83,6 @@ public class BookManager {
 
 
     }
+
+
 }

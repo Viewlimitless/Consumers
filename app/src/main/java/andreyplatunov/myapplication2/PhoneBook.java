@@ -9,7 +9,6 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ListView;
 
-import java.util.ArrayList;
 
 public class PhoneBook extends MainActivity implements View.OnClickListener {
 
